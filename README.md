@@ -29,8 +29,37 @@ And my stats wouldn't show because everything is privated. 🫡</h3>**
 
  **<h3 align="left">Skills</h3>**
 
-<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="36" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="36" alt="JavaScript"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white" height="36" alt="Rust"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="36" alt="Visual Studio Code"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="36" alt="Postman"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="36" alt="Figma"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" height="36" alt="Adobe After Effects"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" height="36" alt="Adobe Premiere Pro"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="36" alt="React"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="36" alt="Bootstrap"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/AOS-9E9E9E?logo=aos&logoColor=white" height="36" alt="AOS"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="36" alt="Django"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="36" alt="Flask"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white" height="36" alt="OpenCV"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="36" alt="Pandas"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" height="36" alt="Plotly"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="36" alt="Chart.js"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="36" alt="PyTorch"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="36" alt="SQLite"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="36" alt="PostgreSQL"/></td></table>
-
+<table>
+  <tr>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="36" alt="Python"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="36" alt="JavaScript"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white" height="36" alt="Rust"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="36" alt="Visual Studio Code"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="36" alt="Postman"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="36" alt="Figma"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" height="36" alt="Adobe After Effects"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" height="36" alt="Adobe Premiere Pro"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="36" alt="React"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="36" alt="Bootstrap"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/AOS-9E9E9E?logo=aos&logoColor=white" height="36" alt="AOS"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="36" alt="Django"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="36" alt="Flask"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white" height="36" alt="OpenCV"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="36" alt="Pandas"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" height="36" alt="Plotly"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="36" alt="Chart.js"/></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="36" alt="PyTorch"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="36" alt="SQLite"/></td>
+    <td align="center" style="padding: 12px;"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="36" alt="PostgreSQL"/></td>
+  </tr>
+</table>
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
