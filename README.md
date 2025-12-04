@@ -1,4 +1,4 @@
-![⚠️Hi there, Daniel here. Always trying...](https://danielferraz.dev/src/img/github-header-image.png)
+![⚠️Hi there, Daniel here. Always trying...]
 
 ![Profile views](https://komarev.com/ghpvc/?username=danielfmm&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -36,7 +36,6 @@ But in reality, I'm currently stuck in a job doing less interesting tasks.
 - 💼 **Developing a new... thing!**
 - 🌱 **Exploring many things related to AI.**
 - ⚡ [YouTube - AI Sandbox Music](https://www.youtube.com/@aisandboxmusic)
-- 📝 [My Neurodivergence](https://danielferraz.dev/my-neurodivergence/) | [Minha Neurodivergência](https://danielferraz.dev/minha-neurodivergencia/)
 
 
 ---
