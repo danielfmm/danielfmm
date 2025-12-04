@@ -1,4 +1,4 @@
-![⚠️Hi there, Daniel here. Always trying...]
+⚠️Hi there, Daniel here. Always trying...
 
 ![Profile views](https://komarev.com/ghpvc/?username=danielfmm&label=Profile%20views&color=0e75b6&style=flat)
 
